@@ -1,2 +1,0 @@
-VITE_OAUTH_PORTAL_URL=https://auth.manus.im
-VITE_APP_ID=local
